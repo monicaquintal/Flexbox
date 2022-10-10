@@ -10,19 +10,32 @@
 
     #conteudo {
       background: #dcdcdc;
-      height: 400px;
-      width: 300px;
+      height: 600px;
       display: flex;
-      flex-direction: row;
+      /* flex-direction: row;
       flex-wrap: nowrap;
       justify-content: space-around;
+      align-items: baseline; */
     }
 
     .item {
+      width: 100px;
+      height: 100px;
       margin: 10px;
       background: white;
       border: 1px solid gray;
+      flex-growht: 0;
     }
+
+    .item1 {
+      flex-growht: 1;
+    }
+
+    /*
+    .ordem1 {
+      order: 1
+    }
+    */
 
   </style>
 
