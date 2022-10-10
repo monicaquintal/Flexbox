@@ -54,7 +54,7 @@ Observações:<br>
 
 ### Observações:
 
-1. O Flexbox <a href="https://caniuse.com/?search=flexbox">não é suportado</a> em todas as vesões dos navegadores. Para que o Flexbox funcione adequadamente em navegadores antigos, utilizar <a href="https://github.com/jonathantneal/flexibility">este link</a> dispinibilizado na aula.<br>
+1. O Flexbox <a href="https://caniuse.com/?search=flexbox">não é suportado</a> em todas as versões dos navegadores. Para que o Flexbox funcione adequadamente em navegadores antigos, utilizar <a href="https://github.com/jonathantneal/flexibility">este link</a> disponibilizado na aula.<br>
 (To start using Flexbox in Internet Explorer 8 & 9 or any older browser, download the flexibility.js script and include it anywhere on your page.)<br><br>
 
 2. Uso dos <a href="https://autoprefixer.github.io/">Prefixos</a> também é recomendado para o Flexbox. <br><br>
